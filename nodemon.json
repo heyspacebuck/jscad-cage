@@ -1,0 +1,4 @@
+{
+  "ext": "js,json,mjs,jsx",
+  "ignore": ["./out"]
+}
